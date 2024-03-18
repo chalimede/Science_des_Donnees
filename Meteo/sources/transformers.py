@@ -6,7 +6,7 @@
 ## Copyright(C) 2024, Charles Theetten, <chalimede@proton.me> ##
 ################################################################
 
-# IMPORTATION DES MODULES
+################################################################################
 
 from sklearn.base   import TransformerMixin
 
